@@ -1,2 +1,2 @@
-# AQA-CS-AS
-skldjksad dnhsabdsna  test
+# Test-AQA
+A repo for AQA computer science new spec AS theory
